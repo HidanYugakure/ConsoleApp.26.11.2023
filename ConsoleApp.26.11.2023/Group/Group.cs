@@ -45,8 +45,7 @@ public class Group
             Console.WriteLine("Student elave edildi");
 
         }
-        Console.WriteLine("Limiti keçir"); // sen daha menalı şeylər yazarsan
-
+        Console.WriteLine("Limiti keçir"); 
     }
     public void GetAllStudents()
     {
